@@ -1,6 +1,4 @@
 # -GPU
-Классификация изображений на нескольких GPU
-
-![]('image_classification.png')
+Image classification across multiple GPUs
 
 <img src="./image_classification.png">
